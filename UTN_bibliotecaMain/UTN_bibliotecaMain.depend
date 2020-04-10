@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1586549477 source:c:\users\rgofi\onedrive\escritorio\ejercicios ingreso en c\utn_bibliotecamain\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn_biblioteca.h"
+
+1586549437 c:\users\rgofi\onedrive\escritorio\ejercicios ingreso en c\utn_bibliotecamain\utn_biblioteca.h
+
+1586549477 source:c:\users\rgofi\onedrive\escritorio\ejercicios ingreso en c\utn_bibliotecamain\utn_biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	"utn_biblioteca.h"
+
