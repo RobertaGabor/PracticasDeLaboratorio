@@ -34,6 +34,10 @@
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="utn_biblioteca.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="utn_biblioteca.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
