@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1586964684 source:c:\users\rgofi\escritorio\utn\1er cuatrimestre\programacion laboratorio 1\tps\primer tp\clase 7 arrays cadenas de caracteres\main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-
