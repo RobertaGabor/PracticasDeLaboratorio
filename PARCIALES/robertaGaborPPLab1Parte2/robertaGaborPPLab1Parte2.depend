@@ -243,3 +243,107 @@
 
 1590435374 c:\ejercicios en c\parciales\gabor.pplab1parte2.1a\robertagaborpplab1parte2\data.h
 
+1590439737 source:c:\practicasdelaboratorio\parciales\robertagaborpplab1parte2\eauto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+	"eTrabajo.h"
+	"eAuto.h"
+	"eColor.h"
+	"eMarca.h"
+
+1590438248 c:\practicasdelaboratorio\parciales\robertagaborpplab1parte2\validaciones.h
+
+1590438248 c:\practicasdelaboratorio\parciales\robertagaborpplab1parte2\etrabajo.h
+	"eServicio.h"
+	"eAuto.h"
+	"eCliente.h"
+	"eColor.h"
+	"eMarca.h"
+
+1590438248 c:\practicasdelaboratorio\parciales\robertagaborpplab1parte2\eservicio.h
+
+1590439615 c:\practicasdelaboratorio\parciales\robertagaborpplab1parte2\eauto.h
+	"eColor.h"
+	"eMarca.h"
+	"eCliente.h"
+
+1590438248 c:\practicasdelaboratorio\parciales\robertagaborpplab1parte2\ecolor.h
+
+1590438248 c:\practicasdelaboratorio\parciales\robertagaborpplab1parte2\emarca.h
+
+1590438248 c:\practicasdelaboratorio\parciales\robertagaborpplab1parte2\ecliente.h
+
+1590438248 source:c:\practicasdelaboratorio\parciales\robertagaborpplab1parte2\eciente.c
+	"eCliente.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1590438248 source:c:\practicasdelaboratorio\parciales\robertagaborpplab1parte2\ecolor.c
+	"eColor.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1590438248 source:c:\practicasdelaboratorio\parciales\robertagaborpplab1parte2\emarca.c
+	"eMarca.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1590438248 source:c:\practicasdelaboratorio\parciales\robertagaborpplab1parte2\eservicio.c
+	"eServicio.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1590438248 source:c:\practicasdelaboratorio\parciales\robertagaborpplab1parte2\etrabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+	"eAuto.h"
+	"eColor.h"
+	"eMarca.h"
+	"eServicio.h"
+	"eTrabajo.h"
+	"data.h"
+
+1590439615 c:\practicasdelaboratorio\parciales\robertagaborpplab1parte2\data.h
+
+1590439812 source:c:\practicasdelaboratorio\parciales\robertagaborpplab1parte2\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+	"eAuto.h"
+	"eColor.h"
+	"eMarca.h"
+	"eServicio.h"
+	"eTrabajo.h"
+	"informes.h"
+
+1590438248 c:\practicasdelaboratorio\parciales\robertagaborpplab1parte2\informes.h
+	"eTrabajo.h"
+
+1590439621 source:c:\practicasdelaboratorio\parciales\robertagaborpplab1parte2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+	"eAuto.h"
+	"eColor.h"
+	"eMarca.h"
+	"eServicio.h"
+	"eTrabajo.h"
+	"informes.h"
+
+1590438248 source:c:\practicasdelaboratorio\parciales\robertagaborpplab1parte2\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+

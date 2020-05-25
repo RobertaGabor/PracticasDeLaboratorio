@@ -289,7 +289,7 @@ void mostrarAutosDeUnServicio (eServicio servicio[],int tamServ,eAuto autos[],in
 
         for(int i=0;i<tamTra;i++)
         {
-            if(trabajos[i].isEmpty==0&&trabajos[i].idServicio==idServicio)
+            if(trabajos[i].isEmpty==0&&trabajos[i].idServicio==idServicio&&buscarPatenteAuto(trabajos[i].patente,autos,tamAu)!=-1)
             {
                 mostrarAutoConFecha(autos[i],colores,tamCol,marcas,tamMar,clientes,tamCli,trabajos[i]);
                 printf("\n------------------------------------------------------------------------------\n");

@@ -135,4 +135,5 @@ void inicializarAutos(eAuto autos[],int tamAu);
  *
  */
 int buscarUnaCarga(eAuto autos[],int tamAu);
+
 #endif // EAUTO_H_INCLUDED

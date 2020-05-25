@@ -24,6 +24,7 @@ int main()
     eMarca marcas[TAMSMARCAS]={{1000,"Renault"},{1001,"Fiat"},{1002,"Ford"},{1003,"Chevrolet"},{1004,"Peugeot"}};
     eColor colores[TAMCOLORES]={{5000,"Negro"},{5001,"Blanco"},{5002,"Gris"},{5003,"Rojo"},{5004,"Azul"}};
     eCliente clientes[TAMCLIENTES]={{10010,'f',"Juana"},{10011,'f',"Susana"},{10012,'m',"Elon"},{10013,'m',"Pedro"},{10014,'f',"Perla"},{10015,'f',"Daria"},{10016,'m',"Marcos"},{10017,'m',"Dorian"},{10018,'f',"Loise"},{10019,'m',"Clark"}};
+
     eAuto autosMain[TAMAUTOS];
     eTrabajo trabajos[TAMTRABAJOS];
 
@@ -31,6 +32,7 @@ int main()
     inicializarTrabajos(trabajos,TAMTRABAJOS);
 
     harcodeo(trabajos,4);
+
     char seguir='s';
     int opcionMenuMain;
     int opcionInformes;

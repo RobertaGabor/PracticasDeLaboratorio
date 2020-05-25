@@ -8,4 +8,5 @@ int idServiciod[]={20000,20001,20001,20003};
 int idTrabajod[]={10,11,12,13};
 char patented[][20]={"dias12","julieta4","sole23","kea1"};
 
+
 #endif // DATA_H_INCLUDED
