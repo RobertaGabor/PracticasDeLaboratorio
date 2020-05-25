@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1588725657 source:c:\ejercicios en c\practicasdelaboratorio\clases online\clase 12 ejercicios de cardinalida\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"C:\ejercicios en C\PracticasDeLaboratorio\tareas\tarea clase 11 autoincremental\dataWarehouse.h"
+
+1588722536 c:\ejercicios en c\practicasdelaboratorio\tareas\tarea clase 11 autoincremental\datawarehouse.h
+
+1590430497 source:c:\ejercicios en c\practicasdelab1\clases online\clase 12 ejercicios de cardinalida\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"sector.h"
+	"obraSocial.h"
+	"C:\ejercicios en C\PracticasDeLab1\tareas\tareaClase11autoincremental\dataWarehouse.h"
+
+1590430208 c:\ejercicios en c\practicasdelab1\clases online\clase 12 ejercicios de cardinalida\empleado.h
+	"sector.h"
+	"obraSocial.h"
+
+1588773625 c:\ejercicios en c\practicasdelab1\clases online\clase 12 ejercicios de cardinalida\sector.h
+
+1590429463 c:\ejercicios en c\practicasdelab1\tareas\tareaclase11autoincremental\datawarehouse.h
+
+1590430693 source:c:\ejercicios en c\practicasdelab1\clases online\clase 12 ejercicios de cardinalida\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"sector.h"
+	"informes.h"
+	"comida.h"
+	"almuerzo.h"
+	"obraSocial.h"
+
+1588773796 source:c:\ejercicios en c\practicasdelab1\clases online\clase 12 ejercicios de cardinalida\sector.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sector.h"
+
+1590430644 source:c:\ejercicios en c\practicasdelab1\clases online\clase 12 ejercicios de cardinalida\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"sector.h"
+	"informes.h"
+
+1590430608 c:\ejercicios en c\practicasdelab1\clases online\clase 12 ejercicios de cardinalida\informes.h
+	"empleado.h"
+	"sector.h"
+
+1589308560 c:\ejercicios en c\practicasdelab1\clases online\clase 12 ejercicios de cardinalida\comida.h
+
+1590430275 source:c:\ejercicios en c\practicasdelab1\clases online\clase 12 ejercicios de cardinalida\almuerzo.c
+	"comida.h"
+	"almuerzo.h"
+	"empleado.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1590426850 source:c:\ejercicios en c\practicasdelab1\clases online\clase 12 ejercicios de cardinalida\comida.c
+	"comida.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1590430275 c:\ejercicios en c\practicasdelab1\clases online\clase 12 ejercicios de cardinalida\almuerzo.h
+	"empleado.h"
+	"sector.h"
+	"comida.h"
+
+1590430208 c:\ejercicios en c\practicasdelab1\clases online\clase 12 ejercicios de cardinalida\obrasocial.h
+
+1590430208 source:c:\ejercicios en c\practicasdelab1\clases online\clase 12 ejercicios de cardinalida\obrasocial.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"obraSocial.h"
+

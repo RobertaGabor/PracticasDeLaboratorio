@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1587567704 source:c:\ejercicios en c\practicasdelaboratorio\clases online\clase 9 cadenas vectores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

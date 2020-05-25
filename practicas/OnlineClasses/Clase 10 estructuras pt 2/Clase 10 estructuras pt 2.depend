@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588163021 source:c:\ejercicios en c\practicasdelaboratorio\clases online\clase 10 estructuras pt 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
