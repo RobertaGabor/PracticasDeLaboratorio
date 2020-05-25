@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1587528806 source:c:\ejercicios en c\practicasdelaboratorio\ejercicios de davila\clase 5 ejercicio 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
