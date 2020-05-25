@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1588707460 source:c:\ejercicios en c\practicasdelaboratorio\tareas\tarea clase 11 autoincremental\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1588708164 source:c:\ejercicios en c\practicasdelaboratorio\tareas\tarea clase 11 autoincremental\empleados.c
+
+1588708164 source:c:\ejercicios en c\practicasdelab1\tareas\tareaclase11autoincremental\empleados.c
+
+1588722169 source:c:\ejercicios en c\practicasdelab1\tareas\tareaclase11autoincremental\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dataWarehouse.h"
+
+1588722536 c:\ejercicios en c\practicasdelab1\tareas\tareaclase11autoincremental\datawarehouse.h
+
