@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1589318992 source:c:\ejercicios en c\practicasdelab1\ejercicios de davila\practicaparcial\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1589318947 c:\ejercicios en c\practicasdelab1\ejercicios de davila\practicaparcial\validaciones.h
+
+1589320097 source:c:\ejercicios en c\practicasdelab1\ejercicios de davila\practicaparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+	"clientes.h"
+	"dataWareHouse.h"
+
+1589320508 source:c:\ejercicios en c\practicasdelab1\ejercicios de davila\practicaparcial\datawarehouse.c
+	"dataWareHouse.h"
+	"clientes.h"
+	<string.h>
+
+1589320588 source:c:\ejercicios en c\practicasdelab1\ejercicios de davila\practicaparcial\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+	"clientes.h"
+
+1589320798 c:\ejercicios en c\practicasdelab1\ejercicios de davila\practicaparcial\clientes.h
+
+1589320508 c:\ejercicios en c\practicasdelab1\ejercicios de davila\practicaparcial\datawarehouse.h
+

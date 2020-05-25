@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1589347502 source:c:\ejercicios en c\practicasdelab1\ejercicios de davila\parcialoctavio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"harcodeo.h"
+	"clientes.h"
+	"mascotas.h"
+	"validaciones.h"
+
+1589342054 c:\ejercicios en c\practicasdelab1\ejercicios de davila\parcialoctavio\harcodeo.h
+	"clientes.h"
+	"mascotas.h"
+
+1589324815 source:c:\ejercicios en c\practicasdelab1\ejercicios de davila\parcialoctavio\harcodeo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"harcodeo.h"
+	"clientes.h"
+
+1589326827 c:\ejercicios en c\practicasdelab1\ejercicios de davila\parcialoctavio\clientes.h
+
+1589342040 c:\ejercicios en c\practicasdelab1\ejercicios de davila\parcialoctavio\mascotas.h
+
+1589344593 c:\ejercicios en c\practicasdelab1\ejercicios de davila\parcialoctavio\validaciones.h
+
+1589344420 source:c:\ejercicios en c\practicasdelab1\ejercicios de davila\parcialoctavio\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
