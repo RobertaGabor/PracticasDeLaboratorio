@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590857641 source:c:\utn\lab1\practicasdelaboratorio\practicas\onlineclasses\punterosclase14structs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
