@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1591024276 source:c:\utn\lab1\practicasdelaboratorio\practicas\onlineclasses\memoriadinamicaclase15\main.c
+	<stdio.h>
+	<stdlib.h>
+
