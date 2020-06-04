@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1591301912 source:c:\utn\lab1\practicasdelaboratorio\practicas\onlineclasses\modelosdepunteros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+
