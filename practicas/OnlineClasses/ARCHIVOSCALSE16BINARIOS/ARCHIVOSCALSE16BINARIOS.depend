@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591320692 source:c:\utn\lab1\practicasdelaboratorio\practicas\onlineclasses\archivoscalse16binarios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+

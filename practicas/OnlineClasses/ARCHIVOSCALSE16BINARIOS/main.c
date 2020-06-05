@@ -6,38 +6,36 @@ typedef struct{
 
 char nombre[20];
 int edad;
+float peso;
 
 }ePersona;
 
 int main()
 {
-    ePersona per={"Juan",20};
+    ePersona per={"Juan",20,48.7};
 
                                                                            /*WRITE*/
-    FILE* f = fopen("archivo.bin","w");/*ABRIMOS PONEMOS BIN DE EXTENSIO X COMODIDAD*/
+    FILE* t = fopen("archivo.bin","wb");/*ABRIMOS PONEMOS BIN DE EXTENSION X COMODIDAD pero todos son binarios en realidad*/
 
-    if(f==NULL)/*VALIDAMOS*/
+    if(t==NULL)/*VALIDAMOS*/
     {
         printf("Problemas para abrir el archivo\n");
         exit(EXIT_FAILURE);
     }
     /*USAMOS*/
-    int x=1234;
-    fprintf(f,"%d",x);
-    fprintf(f,"\nHola mundo\n");//escribe el archivo
+    fwrite(&per,sizeof(ePersona),1,t);/*aca si funciona en WB*/
 
-    /*escribir en binario*/
+    fclose(t);/*CERRAMOS*/
 
-    fwrite(&x,sizeof(int),1,f);/*no se usa para lectura de texto*/
 
-    fclose(f);/*CERRAMOS*/
-                                                                        /*READ (me lo muestra en consola)*/
+                                                                        /*READ*/
 
 
 
-    FILE* g = fopen("archivo.text","r");
-    char c;
-    char cadena[100];
+
+    ePersona persona;
+    FILE* g = fopen("archivo.bin","rb");
+
     if(g==NULL)/*VALIDAMOS*/
     {
         printf("Problemas para abrir el archivo\n");
@@ -45,16 +43,9 @@ int main()
     }
     /*USAMOS*/
 
-    while(!feof(g))//mientras no haya llegado al final del archivo 2 FORMAS DE LEERLO
-    {
-        c=fgetc(g);//devuelve caracter
-        fgets(cadena,100,g);
-
-        printf("%c",c);//leo caracter a caracter y muestro eso
-        printf("%s",cadena);
-    }
+    fread(&persona,sizeof(ePersona),1,t);
+    printf("edad:%d nombre:%s peso:%.2f",persona.edad,persona.nombre,persona.peso);
 
     fclose(g);/*CERRAMOS*/
-
     return 0;
 }
