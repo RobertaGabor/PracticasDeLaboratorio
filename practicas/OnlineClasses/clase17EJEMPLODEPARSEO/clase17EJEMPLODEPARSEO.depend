@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591626674 source:c:\utn\lab1\practicasdelaboratorio\practicas\onlineclasses\clase17ejemplodeparseo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
