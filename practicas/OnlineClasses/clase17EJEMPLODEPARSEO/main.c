@@ -47,12 +47,11 @@ int main()
 
     }
 
-
-
-
     fclose(f);
     return 0;
 }
 
+void leerPersonasCSV(ePersona** lista,int tam, char* nombreArchivo)
+{
 
-
+}
