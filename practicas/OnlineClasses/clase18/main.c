@@ -3,9 +3,8 @@
 
 int main()
 {
-    printf("ID: %d\n",proximoId());
-    printf("ID: %d\n",proximoId());
-    printf("ID: %d\n",proximoId());
+    controllerAlta();
+
     return 0;
 }
 

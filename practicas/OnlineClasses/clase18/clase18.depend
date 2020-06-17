@@ -1,9 +1,9 @@
 # depslib dependency file v1.0
-1592395808 source:c:\utn\lab1\practicasdelaboratorio\practicas\onlineclasses\clase18\main.c
+1592396918 source:c:\utn\lab1\practicasdelaboratorio\practicas\onlineclasses\clase18\main.c
 	<stdio.h>
 	<stdlib.h>
 
-1592395825 source:c:\utn\lab1\practicasdelaboratorio\practicas\onlineclasses\clase18\cotroller.c
+1592397014 source:c:\utn\lab1\practicasdelaboratorio\practicas\onlineclasses\clase18\cotroller.c
 	<stdio.h>
 	<stdlib.h>
 
