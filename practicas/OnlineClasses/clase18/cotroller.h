@@ -1,0 +1,6 @@
+#ifndef COTROLLER_H_INCLUDED
+#define COTROLLER_H_INCLUDED
+
+int proximoId();
+
+#endif // COTROLLER_H_INCLUDED
