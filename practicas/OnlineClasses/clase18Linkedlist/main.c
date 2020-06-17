@@ -47,3 +47,37 @@ static Node* getNode (LinkedList* this, int NodeIndex)
 
     return pNodo;
 }
+
+static int addNode(LinkedList* this, int nodeIndex,void* pElement)
+{
+    int returnAux = -1;
+    Node* pNodo=NULL;
+    Node* anterior=NULL;
+    if(this!=NULL&&nodeIndex>=0&&nodeIndex<=4)
+    {
+        /*pido espacio para ese nuevo nodo*/
+        pNodo=(Node*)malloc(sizeof(Node));
+        if(pNodo!=NULL)
+        {
+           pNodo->pElement=pElement;
+           pNodo->pNextNode=NULL;
+
+           if(nodeIndex==0)
+           {
+               pNodo->pNextNode=this->pFirstNode;
+               this->pFirstNode=pNodo;
+           }
+           else
+           {
+            anterior=getNode(this,nodeIndex-1);
+            pNodo->pNextNode=anterior->pNextNode;
+            anterior->pNextNode=pNodo;
+           }
+           this->size++;
+           returnAux=0;
+        }
+
+    }
+
+    return returnAux;
+}
